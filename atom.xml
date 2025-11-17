@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mogrowang.github.io/mwsblog</id>
+    <title>MogroWang Studio 官方网站</title>
+    <updated>2025-11-17T09:55:37.883Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mogrowang.github.io/mwsblog"/>
+    <link rel="self" href="https://mogrowang.github.io/mwsblog/atom.xml"/>
+    <logo>https://mogrowang.github.io/mwsblog/images/avatar.png</logo>
+    <icon>https://mogrowang.github.io/mwsblog/favicon.ico</icon>
+    <rights>All rights reserved 2025, MogroWang Studio 官方网站</rights>
+    <entry>
+        <title type="html"><![CDATA[工作室标志 ver.11.1 发布]]></title>
+        <id>https://mogrowang.github.io/mwsblog/post/logo_release_v11_1/</id>
+        <link href="https://mogrowang.github.io/mwsblog/post/logo_release_v11_1/">
+        </link>
+        <updated>2025-11-17T09:19:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>修复 ver.11.0 的小 bug。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>修复 ver.11.0 的小 bug。</p>
+<!-- more -->
+<h2 id="修复内容">修复内容</h2>
+<ul>
+<li>修复了&quot;W&quot;字样圆角与&quot;M&quot;字样不一致的错误。</li>
+<li>网站 LOGO 已替换为 ver.11.1</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 工作室视觉标志焕新]]></title>
+        <id>https://mogrowang.github.io/mwsblog/post/logo_refresh_v11/</id>
+        <link href="https://mogrowang.github.io/mwsblog/post/logo_refresh_v11/">
+        </link>
+        <updated>2025-11-12T07:55:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>MWSLOGO ver.11.0 发布！<br>
+更加夸张的不对称设计，经典番茄配色的延续……<br>
+为工作室未来刻画出新的趋向。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>MWSLOGO ver.11.0 发布！<br>
+更加夸张的不对称设计，经典番茄配色的延续……<br>
+为工作室未来刻画出新的趋向。</p>
+<!-- more -->
+<p><img src="https://mogrowang.github.io/mwsblog/post-images/1762934619953.jpg" alt="" loading="lazy"><br>
+<img src="https://mogrowang.github.io/mwsblog/post-images/1762934625194.jpg" alt="" loading="lazy"><br>
+<img src="https://mogrowang.github.io/mwsblog/post-images/1762934628962.jpg" alt="" loading="lazy"><br>
+<img src="https://mogrowang.github.io/mwsblog/post-images/1762934634750.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 月全食]]></title>
+        <id>https://mogrowang.github.io/mwsblog/post/2025TLE/</id>
+        <link href="https://mogrowang.github.io/mwsblog/post/2025TLE/">
+        </link>
+        <updated>2025-09-08T14:56:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>难得的机会，全晚观测！<br>
+只可惜拍到的影像并不完整……但也是一次很新鲜的尝试了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>难得的机会，全晚观测！<br>
+只可惜拍到的影像并不完整……但也是一次很新鲜的尝试了。</p>
+<!-- more -->
+<p><img src="https://mogrowang.github.io/mwsblog/post-images/1757343748325.jpg" alt="" loading="lazy"><br>
+<img src="https://mogrowang.github.io/mwsblog/post-images/1757343761381.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《光点之旅》中文官方网站]]></title>
+        <id>https://mogrowang.github.io/mwsblog/post/TOLP/</id>
+        <link href="https://mogrowang.github.io/mwsblog/post/TOLP/">
+        </link>
+        <updated>2025-07-17T10:03:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>《光点之旅》是本工作室正在开发的项目之一。<br>
+获取更多相关信息可点击跳转至《光点之旅》官网。<br>
+<a href="http://tolpblog.MogroWangStudio.top">点击前往</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《光点之旅》是本工作室正在开发的项目之一。<br>
+获取更多相关信息可点击跳转至《光点之旅》官网。<br>
+<a href="http://tolpblog.MogroWangStudio.top">点击前往</a></p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎浏览 MogroWang Studio 官方网站！]]></title>
+        <id>https://mogrowang.github.io/mwsblog/post/welcome/</id>
+        <link href="https://mogrowang.github.io/mwsblog/post/welcome/">
+        </link>
+        <updated>2025-07-13T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>无限探索，自由创作。<br>
+网站将会发布关于本个人工作室的相关信息，同时也会记载各种创作片刻。🤓👍</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>无限探索，自由创作。<br>
+网站将会发布关于本个人工作室的相关信息，同时也会记载各种创作片刻。🤓👍</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
